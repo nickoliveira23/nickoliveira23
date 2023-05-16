@@ -1,16 +1,30 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**nickoliveira23/nickoliveira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 👨‍💻 Currently learning about NestJs, NextJs, Clean Architecture, Monolithic and Microservices Architecture, TDD.
+- 📫 You can reach me by my Email, LinkedIn or other social media platforms.
+- 🎓 I have a major in Information System.
+- ⚡ In my free time, I enjoy work out, dancing and playing games.
+- 🎥 I often do live streams playing games or just chatting.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: JavaScript/TypeScript
+- Backend: Node.js, NestJs(Studying)
+- Frontend: React, Next.js(Studying)
+- Mobile: React-Native
+- Databases: MySQL, PostgreSQL
+- Other Tools: Git, Docker, Prisma, TypeORM, KnexJs, PM2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickoliveira23&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+## Featured Projects
+- Mama de Ouro: This is a unique mobile app that aims to manage the donation of breast milk to hospitals and keep track of this data. It was built using React Native technology for the user interface, and has a backend developed with NodeJS. Besides being a software that promises a high social impact, it was also a great opportunity for me, as I was able to work on all layers of development, from backend to frontend which allowed me to apply my knowledge and skills in all aspects of software development.
+- Open Maps: Accessible Location Tool is a project utilizing React and React Native to create an accessibility tool that helps individuals accurately locate themselves in outdoor and indoor spaces. The tool aims to enhance navigation and provide a user-friendly experience for better accessibility.
+
+## Contact Me
+- Email: nickolas.oliveira02@gmail.com
+- LinkedIn: [Nickolas Oliveira](https://www.linkedin.com/in/nickolas-oliveira/)
+- Twitter: [@eumelonisk](https://twitter.com/eumelonisk)
