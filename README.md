@@ -21,7 +21,7 @@
 </div>
 
 ## Featured Projects
-- Mama de Ouro: This is a unique mobile app that aims to manage the donation of breast milk to hospitals and keep track of this data. It was built using React Native technology for the user interface, and has a backend developed with NodeJS. Besides being a software that promises a high social impact, it was also a great opportunity for me, as I was able to work on all layers of development, from backend to frontend which allowed me to apply my knowledge and skills in all aspects of software development.
+- Mama de Ouro: This is an unique mobile app that aims to manage the donation of breast milk to hospitals and keep track of this data. It was built using React Native technology for the user interface, and has a backend developed with NodeJS. Besides being a software that promises a high social impact, it was also a great opportunity for me, as I was able to work on all layers of development, from backend to frontend which allowed me to apply my knowledge and skills in all aspects of software development.
 
 ## Contact Me
 - Email: nickolas.oliveira02@gmail.com
