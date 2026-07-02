@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nickoliveira23&show_icons=true&hide_border=true&bg_color=0B0C0E&title_color=E0A458&icon_color=E0A458&text_color=EDEEF0&ring_color=E0A458&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickoliveira23&layout=compact&hide_border=true&bg_color=0B0C0E&title_color=E0A458&text_color=EDEEF0&langs_count=8" alt="most used languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nickoliveira23&show_icons=true&hide_border=true&bg_color=0B0C0E&title_color=E0A458&icon_color=E0A458&text_color=EDEEF0&ring_color=E0A458&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nickoliveira23&layout=compact&hide_border=true&bg_color=0B0C0E&title_color=E0A458&text_color=EDEEF0&langs_count=8" alt="most used languages" />
 
 <br/><br/>
 
